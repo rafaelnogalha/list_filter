@@ -1,6 +1,6 @@
 # ListFilter
 
-**TODO: Add description**
+A module for filter odd elements in a list
 
 ## Installation
 
